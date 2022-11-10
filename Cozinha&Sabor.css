@@ -1,0 +1,46 @@
+img{
+    width: 70%;
+    height: 280px; 
+   
+    margin: 0px 0px 0px 215px;
+}
+figcaption{
+    text-align: center;
+}
+h1{
+    color: hsla(0, 100%, 50%, 1.0);
+    text-align: center;
+font-size: 3rem;
+}
+h2{
+    color: hsla(340, 100%, 50%, 1.0);
+}
+h4{
+    Color: hsla(45, 100%, 50%, 1.0);
+}
+summary, p{
+    font-size: 1.2rem;
+}
+.irpara{
+display: flex;
+font-size:1.3rem;
+}
+.receitas{
+ display: flex;
+ font-size:1.3rem;
+ }
+.preparo
+{ width:700px;
+     }
+ .ingredientes
+{ width:700px;
+ }
+ .bloco1{
+ width: 600px;
+ }
+ .bloco2{
+    width: 600px;
+ }
+ .bloco3{
+    width: 600px;
+ }
